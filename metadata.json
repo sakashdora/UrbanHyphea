@@ -1,0 +1,6 @@
+{
+  "name": "Urban Hyphae Bioscience",
+  "description": "Urban Hyphae Bioscience Pvt. Ltd. — Biotechnology startup in Bhubaneswar, Odisha developing sustainable mycelium bio-leather and biodegradable bio-thermocol alternatives from agricultural waste.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
